@@ -139,7 +139,7 @@ a:hover, a:active, a:focus {
   flex-flow: row nowrap;
   justify-content: center;
   align-items: center;
-  background: none repeat scroll 0 0 #00FFF9;
+  background: none repeat scroll 0 0 #ffffff;
 }
 
 .sk-spinner-wordpress.sk-spinner {
@@ -489,8 +489,8 @@ a:hover, a:active, a:focus {
 
 .blog-post-format span img {
   display: inline-block;
-  width: 42px;
-  margin-right: 40px;
+  width: 40px;
+  margin-right: 4px;
 }
 
 .blog-post-des blockquote {
