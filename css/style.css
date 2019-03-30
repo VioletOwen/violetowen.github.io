@@ -194,7 +194,7 @@ a:hover, a:active, a:focus {
 }
 
 .navbar-default .navbar-brand {
-  color: #555;
+  color: #000000;
   font-family: 'Merriweather', serif;
   font-weight: bold;
   text-transform: uppercase;
@@ -203,7 +203,7 @@ a:hover, a:active, a:focus {
 }
 
 .navbar-default .navbar-nav li a {
-    color: #777;
+    color: #000000;
     font-size: 16px;
     letter-spacing: 1px;
     -webkit-transition: all 0.4s ease-in-out;
@@ -272,7 +272,7 @@ a:hover, a:active, a:focus {
 }
 
 .main-home {
-  background: url('../images/home-bg.jpg') no-repeat;
+  background: url('../images/Direction.jpg') no-repeat;
   height: 100vh;
 }
 
@@ -308,7 +308,7 @@ a:hover, a:active, a:focus {
   background: #ffffff;
   border: 2px solid #ffffff;
   border-radius: 100px;
-  color: #444;
+  color: #000000;
   font-family: 'Merriweather', serif;
   font-size: 10px;
   font-weight: bold;
