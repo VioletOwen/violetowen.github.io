@@ -1,2 +1,2 @@
 # Rambles
-Hosting for my rambles
+Hosting for my unedited thoughts
