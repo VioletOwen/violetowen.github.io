@@ -143,7 +143,7 @@ a:hover, a:active, a:focus {
 }
 
 .sk-spinner-wordpress.sk-spinner {
-  background-color: #194ED7;
+  background-color: #ffffff;
   width: 40px;
   height: 40px;
   border-radius: 40px;
@@ -272,7 +272,7 @@ a:hover, a:active, a:focus {
 }
 
 .main-home {
-  background: url('../images/Direction.jpg') no-repeat;
+  background: url('../images/home-bg.jpg') no-repeat;
   height: 100vh;
 }
 
@@ -281,7 +281,7 @@ a:hover, a:active, a:focus {
 }
 
 .main-single-post {
-  background: url('../images/IMG_1827.jpg') no-repeat;
+  background: url('../images/single-post-bg.jpg') no-repeat;
 }
 
 .main-gallery {
