@@ -103,7 +103,7 @@ a:hover, a:active, a:focus {
 .main-single-post,
 .main-gallery,
 .main-contact {
-  height: 65vh;
+  height: 75vh;
 }
 
 .overlay {
@@ -355,7 +355,7 @@ a:hover, a:active, a:focus {
 }
 
 .main-home {
-  background: url('../images/home-bg.jpg') no-repeat;
+  background: url('../images/IMG_1827.JPG') no-repeat;
   height: 100vh;
 }
 
@@ -364,7 +364,7 @@ a:hover, a:active, a:focus {
 }
 
 .main-single-post {
-  background: url('../images/IMG_1827.jpg') no-repeat;
+  background: url('../images/IMG_1827.JPG') no-repeat;
 }
 
 .main-gallery {
@@ -811,7 +811,7 @@ footer .footer-copyright {
   .main-single-post,  
   .main-gallery,
   .main-contact {
-    height: 35vh;
+    height: 85vh;
   }
 
 }
