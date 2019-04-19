@@ -363,8 +363,12 @@ a:hover, a:active, a:focus {
   background: url('../images/about-bg.jpg') no-repeat;
 }
 
-.main-single-post {
+.main-first-post {
   background: url('../images/IMG_1827.JPG') no-repeat;
+}
+
+.main-s-post {
+  background: url('../images/IMG_1985.JPG') no-repeat;
 }
 
 .main-gallery {
@@ -385,6 +389,10 @@ a:hover, a:active, a:focus {
 
 #home h4 {
   color: #194ED7;
+}
+
+#home h3 {
+  color: #0F00DC;
 }
 
 #home .btn {
