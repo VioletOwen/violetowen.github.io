@@ -47,10 +47,7 @@
   background: none repeat scroll 0 0 #ffffff;
   overflow: hidden;
   padding: 10px 0;
-  position: absolute;
-  top: 50%;
   transform: translate(-50%);
-  width: 150px;
 }
 .loader .ball {
   background: #38d368;
