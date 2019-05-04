@@ -229,14 +229,6 @@ a:hover, a:active, a:focus {
   background: url('../images/about-bg.jpg') no-repeat;
 }
 
-.main-single-post {
-  background: url('../images/IMG_1827.JPG') no-repeat;
-}
-
-.main-s-post {
-  background: url('../images/IMG_1985.JPG') no-repeat;
-}
-
 .main-gallery {
   background: url('../images/gallery-bg.jpg') no-repeat;
 }
@@ -578,7 +570,10 @@ a:hover, a:active, a:focus {
   padding-top: 16px;
 }
 
-
+.image.main {
+			display: block;
+			margin: 4rem 0;
+			width: 100%;
 
 /*---------------------------------------
    Footer section              
