@@ -143,8 +143,8 @@ a:hover, a:active, a:focus {
 }
 
 .navbar-default .navbar-brand {
-  color: #000000;
-  font-family: 'Merriweather', serif;
+  color: #555;
+  font-family: 'Montserrat', sans-serif;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 4px;
@@ -152,7 +152,7 @@ a:hover, a:active, a:focus {
 }
 
 .navbar-default .navbar-nav li a {
-    color: #000000;
+    color: #777;
     font-size: 16px;
     letter-spacing: 1px;
     -webkit-transition: all 0.4s ease-in-out;
@@ -258,7 +258,7 @@ a:hover, a:active, a:focus {
   border: 2px solid #ffffff;
   border-radius: 100px;
   color: #000000;
-  font-family: 'Merriweather', serif;
+  font-family: 'Montserrat', serif;
   font-size: 10px;
   font-weight: bold;
   letter-spacing: 2px;
@@ -562,7 +562,7 @@ a:hover, a:active, a:focus {
 }
 
 #blog-single-post .blog-single-post-image img {
-  border-radius: 10px;
+  border-radius: 1px;
   padding-right: 12px;
 }
 
@@ -573,14 +573,14 @@ a:hover, a:active, a:focus {
 .image.main {
 			display: block;
 			margin: 4rem 0;
-			width: 100%;
+			width: 50%;
 
 /*---------------------------------------
    Footer section              
 -----------------------------------------*/
 
 footer {
-    background: #808080;
+    background: #000;
     color: #ffffff;
     padding: 80px 0px;
     position: relative;
