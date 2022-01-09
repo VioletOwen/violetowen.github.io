@@ -570,10 +570,10 @@ a:hover, a:active, a:focus {
   padding-top: 16px;
 }
 
-.image.main {
-			display: block;
-			margin: 4rem 0;
-			width: 50%;
+#image-main {
+	width: 1980 px,
+	height: 1080 px
+}
 
 /*---------------------------------------
    Footer section              
