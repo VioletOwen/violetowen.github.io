@@ -28,6 +28,22 @@
 </script>
 <!-- Font Awesome -->
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">
+<!-- Image Resizing Issues -->  
+ <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        .imgbox {
+            display: grid;
+            height: 100%;
+        }
+        .center-fit {
+            max-width: 100%;
+            max-height: auto;
+            margin: 0;
+        }
+    </style>
 </head>
 
 <body>
@@ -60,8 +76,10 @@
 
 <!-- Home Section -->
 
-<section id="home" class="main-second-post-2 parallax-section">
+<section id="home" class="main-single-post parallax-section">
      <div class="overlay">
+	 		<div class="imgbox">
+			<img class="center-fit" src= "images/IMG_1985.JPG">
 	 </div>
      <div class="container">
           <div class="row">
@@ -79,7 +97,7 @@
           <div class="row">
 
                <div class="col-md-offset-1 col-md-10 col-sm-12">
-                    <div class="blog-second-post-thumb">
+                    <div class="blog-single-post-thumb">
                          
 
                          <div class="blog-post-title">
