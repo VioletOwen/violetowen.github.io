@@ -107,12 +107,7 @@ a:hover, a:active, a:focus {
 }
 
 .main-about,
-.main-single-post-1 {
-  background: url('../images/IMG_1827.jpg') no-repeat;
-}
-.main-single-post-2{
-  background: url('../images/IMG_1895.jpg') no-repeat;
-}
+.main-single-post,
 .main-gallery,
 .main-contact {
   height: 75vh;
@@ -703,6 +698,7 @@ footer .footer-copyright {
 
   #blog-single-post .blog-single-post-image img {
     padding-bottom: 22px;
+  width:100%
   }
 
   footer .col-md-4 {
