@@ -107,7 +107,12 @@ a:hover, a:active, a:focus {
 }
 
 .main-about,
-.main-single-post,
+.main-single-post-1 {
+  background: url('../images/IMG_1827.jpg') no-repeat;
+}
+.main-single-post-2{
+  background: url('../images/IMG_1895.jpg') no-repeat;
+}
 .main-gallery,
 .main-contact {
   height: 75vh;
